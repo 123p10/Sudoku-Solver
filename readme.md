@@ -1,5 +1,5 @@
 # Sudoku Solver
-This is a Sudoku Solver made in Java
+This is a Sudoku Solver made in Java. Taken from the Programming-Projects repository
 
 #### Features
 - Measures elapsed time of solution
